@@ -2,7 +2,7 @@
 
 Develop simple programs needed to work at school.
 
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=purpieprince&include_all_commits=true&show_icons=true&theme=shades-of-purple)](https://github.com/bi-sz/github-readme-stats)
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=purpieprince&include_all_commits=true&show_icons=true&theme=shades-of-purple)](https://github.com/PurpIeprince)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurpIePrince&count_bg=%235F4B8B&title_bg=%23F4A7A7&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
